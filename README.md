@@ -12,6 +12,6 @@ See the LICENSE file for more details.
 [Github Project link](https://github.com/Autorun-AVS/HTML-CSS-JS-Data-Analytics-Dashboard-AVS-20240703)
 
 Screenshots:
-![Project screenshot 1](screenshots/Data-Analytics-Dashboard-AVS%20(1).jpg)
-![Project screenshots 2](screenshots/Data-Analytics-Dashboard-AVS%20(1).png)
+![Project screenshot 1](screenshots/Data-Analytics-Dashboard-AVS%20(1).png)
+![Project screenshots 2](screenshots/Data-Analytics-Dashboard-AVS%20(2).png)
 ![Project screenshots 3](screenshots/Data-Analytics-Dashboard-AVS%20(3).png)
