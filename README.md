@@ -13,9 +13,9 @@ See the LICENSE file for more details.
 
 Screenshots:
 
-Screenshot 1
+Screenshot 1 - Mobile 1
 ![Project screenshot 1](screenshots/Data-Analytics-Dashboard-AVS%20(1).png)
-Screenshot 2
+Screenshot 2 - Mobile 2
 ![Project screenshots 2](screenshots/Data-Analytics-Dashboard-AVS%20(2).png)
-Screenshot 3
+Screenshot 3 - Desktop
 ![Project screenshots 3](screenshots/Data-Analytics-Dashboard-AVS%20(3).png)
